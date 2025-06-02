@@ -26,6 +26,7 @@ function fondoBody(){
 
 function quitarFondo(){
     body.classList.remove('cuerpo');
+    
 }
 
 function audio(url){
